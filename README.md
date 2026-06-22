@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-de-diosa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Cuerpo de diosa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-diosa/) |
+| **Get License** | [Obtain a Music License for Cuerpo de diosa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-diosa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Cuerpo de diosa, cuerpo de diosa
+> Mueves la noche como una diosa
+> Cuerpo de diosa, cuerpo de diosa
+> Tu piel me llama, no hay otra cosa
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
